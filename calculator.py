@@ -20,7 +20,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-
+#calculator logic to perform the operation and print out the out put
 if operation  == 1 :
     add(x,y)
     print(f"{x} + {y} = {add(x,y)}")
